@@ -1,4 +1,4 @@
-# Lunch-deals-images
+# Lunch-deals: Zebrix integration 
 
 ## Scope
 Simplify the update of the Lunch deals screens on the zebrix platform
