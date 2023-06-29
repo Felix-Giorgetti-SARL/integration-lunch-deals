@@ -1,0 +1,1 @@
+https://cpcoolfilestorage.blob.core.windows.net/lunchdeals/memory-day.png
